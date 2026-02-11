@@ -14,7 +14,7 @@ Hello this is the repo for the advanced programing class that i took at universi
 | 8 Design Pattern Chain Of Responsability, Command and Observer | 02/12/2025 - 14:33 | [link](https://github.com/maxcbarn/advanced-programming/tree/main/assignment_8) | No video | Yes
 | 9 Collision Detection | 08/12/2025 - 11:42 | [link](https://github.com/maxcbarn/advanced-programming/tree/main/assignment_9) | No Video | Yes
 | 10 Collision Solving | 23/12/2025 - 22:27 | [link](https://github.com/maxcbarn/advanced-programming/tree/main/assignment_10) | [link](https://drive.google.com/file/d/1A6EVB0Vb-nDm0Gn-lW33j6klFCJ9LEnn/view?usp=sharing) | Yes( mas ta chinelo )
-| 11 | | | |
+| 11 | | | No |
 | 12 | | | |
 | 13 | | | |
 | 14 | | | |
